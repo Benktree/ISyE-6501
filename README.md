@@ -17,6 +17,7 @@ It is a collection of the machine learning course production in Gerogia Tech.
 <img width="249" alt="image" src="https://github.com/user-attachments/assets/acb08894-b279-4f6c-9346-5f026c0e0480">
 
 Tree regression and logistic regression
+
 <img width="210" alt="image" src="https://github.com/user-attachments/assets/e1240837-1012-4e2f-81ce-303dcad2ccfd">
 
 5. Stepwise regression
