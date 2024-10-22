@@ -26,3 +26,7 @@ Tree regression and logistic regression
 6. Lasso and Elastic net
 <img width="312" alt="image" src="https://github.com/user-attachments/assets/4f915f1c-11d1-42c3-b87e-b4a9ae81c8ef">
 <img width="291" alt="image" src="https://github.com/user-attachments/assets/f5f8186f-686f-4780-8f71-f993114fee17">
+
+7. Simulation
+<img width="643" alt="Screenshot 2024-10-22 at 3 00 14 PM" src="https://github.com/user-attachments/assets/c3f1877b-49ac-44ff-a6c0-ba3f87a734ab">
+<img width="694" alt="Screenshot 2024-10-22 at 3 00 46 PM" src="https://github.com/user-attachments/assets/d85af36b-853f-434b-ac0e-4b35519f2739">
